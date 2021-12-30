@@ -9,41 +9,6 @@ lang: en
 ---
 
 
-# RDMO Consortium 
+# yyyy
 
-<h1>Steering Group</h1>
-
-{% for member in site.data.sg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
-{% endfor %}
-
-<h1>Software Group</h1>
-
-Contacts:
-
-{% for member in site.data.sw-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
-{% endfor %}
-
-<h1>Content Group</h1>
-
-Contacts: 
-
-{% for member in site.data.cg-group.current %}
-<div class="team-member">
-    <img src="{{ site.baseurl }}/{{ member.image}}" />
-    <div class="team-member-info">
-        {{ member.text.en | markdownify }}
-    </div>
-</div>
-{% endfor %}
+xxx
