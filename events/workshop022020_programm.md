@@ -2,7 +2,7 @@
 layout: page
 
 key: workshop022020_programm
-lang: de
+lang: en
 ---
 
 
@@ -10,7 +10,7 @@ lang: de
 
 Tag:     24.02.2020<br>
 Zeit:    13:00-18:00<br>
-Ort: Leibniz-Institut für Astrophysik Potsdam<br>
+Ort: xxx<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An der Sternwarte 16, 14482 Potsdam<br>
 
 
