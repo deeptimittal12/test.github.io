@@ -1,0 +1,364 @@
+- name:    Leibniz-Institut für Astrophysik Potsdam (AIP)
+  url:     https://rdmo.aip.de
+  contact: Olaf Michaelis, Jochen Klar
+  lat:     52.405
+  lon:     13.104167
+  color:   blue
+  # discipline: Astrophysik
+  # description: Das Leibniz-Institut für Astrophysik Potsdam (AIP) widmet sich astrophysikalischen Fragen, die von der Untersuchung unserer Sonne bis zur Entwicklung des Kosmos reichen.
+
+- name:    Universitätsallianz Ruhr (Bochum, Duisburg-Essen, Dortmund)
+  url:     http://rdmo.uaruhr.de
+  contact: Johannes Frenzel (Ruhr Universität Bochum)
+  lat:     51.4439
+  lon:     7.261572
+  color:   blue
+
+- name:    Universität Duisburg-Essen
+  url:     https://www.uni-due.de/rds
+  contact: Stephanie Rehwald, Sonja Hendriks, Henning Timm
+  lat:     51.429167
+  lon:     6.800833
+  color:   blue
+
+- name:    IZUS / Universitätsbibliothek Stuttgart
+  url:     http://fdm.ub.uni-stuttgart.de
+  contact: Florian Fritze
+  lat:     48.78231
+  lon:     9.1686
+  color:   blue
+
+- name:    Fachhochschule Potsdam
+  url:     https://rdmo.fh-potsdam.de
+  contact: Ulrike Wuttke
+  lat:     52.413501
+  lon:     13.0512984
+  color:   blue
+  discipline: Informationswissenschaften
+  description: >-
+      Als ehemaliges Mitglied im Projekt RDMO war die Fachhochschule Potsdam
+      verantwortlich für Nachhaltigkeit, Community-Building, Dissemination
+      und Training von RDMO.
+
+- name:    Karlsruher Institut für Technologie
+  url:     https://rdmo.forschungsdaten.info
+  contact: Robert Ulrich
+  lat:     49.00955
+  lon:     8.4121891
+  color:   blue
+
+- name:    Göttingen eResearch Alliance
+  url:     https://plan.goettingen-research-online.de/
+  contact: Timo Gnadt, Ubbo Veentjer
+  lat:     51.5400097
+  lon:     9.9358179
+  color:   blue
+
+# - name:  Hessisches Forschungsdateninfrastrukture (HeFDI)
+#   url:   https://www.uni-marburg.de/projekte/forschungsdaten/projekt
+
+- name:    Universität Bayreuth
+  url:     https://rdmo.uni-bayreuth.de
+  contact: Thomas Martin
+  lat:     49.929511
+  lon:     11.586435
+  color:   blue
+
+- name:    Universitäts- und Landesbibliothek Darmstadt
+  url:     http://tudmo.ulb.tu-darmstadt.de
+  contact: Gerald Jagusch
+  lat:     49.861429
+  lon:     8.680805
+  color:   blue
+
+# - name:  Universität Dortmund
+#   url:   https://www.tu-dortmund.de/uni/de/Uni
+
+- name:    Universität Düsseldorf (FoDaKo)
+  url:     http://www.fodako.de
+  lat:     51.1952525
+  lon:     6.7899203
+  color:   gray
+
+- name:    Universität Wuppertal (FoDaKo)
+  contact: Torsten Rathman
+  url:     http://www.fodako.de
+  lat:     51.2458565
+  lon:     7.1486939
+  color:   gray
+
+- name:    Universität Siegen (FoDaKo)
+  contact: Thomas von Rekowski, Henning Bohn, Volker Hess
+  url:     http://www.fodako.de
+  lat:     50.91082
+  lon:     8.0273001
+  color:   gray
+
+- name:    Universität Hildesheim
+  contact: Annette Strauch
+  # url:     https://www.uni-hildesheim.de/forschungsdaten
+  lat:     52.1600497
+  lon:     9.9833092
+  color:   gray
+
+- name:    Technische Universität Braunschweig
+  contact: Robert Strötgen
+  url:     https://rdmo.biblio.etc.tu-bs.de
+  lat:     52.2735074
+  lon:     10.5296839
+  color:   gray
+
+- name:    Physikalisch-Technische Bundesanstalt Braunschweig (PTB)
+  contact: Giacomo Lanza
+  url:     https://rdmo.ptb.de
+  lat:     52.29653
+  lon:     10.46418
+  color:   blue
+
+- name:    Technische Universität Hamburg
+  contact: Beate Rajski
+  # url:     https://rdmo.rz.tuhh.de
+  lat:     53.4610079
+  lon:     9.9699716
+  color:   gray
+
+- name:    Universität Hamburg
+  contact: Kai Wörner
+  lat:     53.566298
+  lon:     9.984469
+  color:   gray
+
+- name:    Universitäts- und Landesbibliothek Münster
+  contact: Marc Schutzeichel
+  url:     https://www.ulb.uni-muenster.de
+  lat:     51.9627609
+  lon:     7.620459
+  color:   gray
+
+- name:    Hochschul- und Landesbibliothek Fulda
+  contact: Patrick Langner
+  url:     https://www.hs-fulda.de
+  lat:     50.5653467
+  lon:     9.68746859
+  color:   gray
+
+- name:    PUBLISSO/ZB MED
+  contact: Robin Rothe
+  url:     http://rdmo.publisso.de
+  lat:     50.9246806
+  lon:     6.9164622
+  color:   blue
+
+- name:    Universität Kassel
+  url:     https://rdmo.uni-kassel.de
+  contact: Arvid Deppe
+  lat:     51.322817
+  lon:     9.507359
+  color:   blue
+
+- name:    Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+  contact: Jutta Graf
+  lat:     48.0853178
+  lon:     11.2789751
+  color:   gray
+
+- name:    Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)
+  url:     http://www.ipk-gatersleben.de/
+  contact: Matthias Lange
+  lat:     51.827277
+  lon:     11.2771503
+  color:   blue
+
+- name:    Universität Trier
+  contact: Marina Lemaire, Stefan Kellendonk
+  lat:     49.745933
+  lon:     6.688490
+  color:   gray
+
+# - name:  Leibnitz-Institut für Pflanzenbiochemie
+#   url:   https://www.uni-trier.de
+
+# - name:  EAWAG
+#   url:   http://www.eawag.ch
+
+- name:    Alfred Wegner Institut (AWI)
+  contact: Angela Schäfer
+  lat:     53.533308
+  lon:     8.5805956
+  color:   gray
+
+# - name:  Deutsches GeoForschungsZentrum GFZ
+#   contact: Roland Bertelmann
+#   lat:   52.385098
+#   lon:   13.066132
+#   color: gray
+
+- name:    RTWH Aachen
+  contact: Daniela Hausen
+  lat:     50.781177
+  lon:     6.065603
+  color:   gray
+
+- name:    Forschungszentrum Jülich
+  url:     https://dmp.fz-juelich.de
+  contact: Ines Schmahl
+  lat:     50.905626
+  lon:     6.40600
+  color:   blue
+
+- name:    Friedrich-Alexander-Universität Erlangen Nürnberg (FAU)
+  contact: Jürgen Rohrwild
+  lat:     49.597901
+  lon:     11.004571
+  color:   blue
+
+- name:    Helmholtz-Zentrum Berlin HZB
+  contact: Heike Görzig
+  lat:     52.411138
+  lon:     13.129854
+  color:   gray
+
+- name:    Staats- und Universitätsbibliothek Dresden (SLUB)
+  contact: Johannes Sperling
+  lat:     51.028183
+  lon:     13.736781
+  color:   gray
+
+- name:    Universität Potsdam
+  contact: FDM-Team von UB & ZIM forschungsdaten@uni-potsdam.de
+  url:     https://www.uni-potsdam.de/forschungsdaten
+  lat:     52.401111
+  lon:     13.011944
+  color:   gray
+
+- name: Max Rubner-Institut
+  contact: Dr. Lara Frommherz
+  lat: 49.013579
+  lon: 8.426245
+  color: gray
+
+- name: Ludwig-Maximilians-Universität München
+  url: https://rdmo.ub.uni-muenchen.de
+  contact: Martin Spenger
+  lat: 48.150833
+  lon: 11.580278
+  color: blue
+
+- name: Universität Rostock
+  url: https://www.ub.uni-rostock.de/forschungsdaten
+  contact: Referat Forschungsdaten, Universitätsbibliothek Rostock
+  lat: 54.088133
+  lon: 12.133373
+  color: blue
+
+- name: Goethe Universität Frankfurt am Main
+  url: https://rdmo.server.uni-frankfurt.de
+  contact: Nina Dworschak
+  lat: 50.127778
+  lon: 8.666667
+  color: blue
+
+- name:    Robert Koch-Institut
+  url:     https://www.rki.de/mamodar
+  contact: Luca Leipold, Kyanoush Yahosseini
+  lat:     52.516181
+  lon:     13.376935
+  color:   gray
+  discipline: Biologie, Medizin
+  description: >-
+      Im Rahmen des MaMoDaR-Projekts entwickelt das Robert Koch-Institut
+      in Kooperation mit der Fachhochschule Potsdam eine benutzerfreundliche
+      Software, den DataLinker. Diese Software verknüpft Projekt-Metadaten
+      aus RDMO und Metadaten aus angrenzenden Systemen direkt mit molekularen
+      Forschungsdaten. Der DataLinker bietet zudem eine Durchsuchbarkeit und
+      Import-/Export-Möglichkeiten dieser Metadaten, z.B. um eine strukturierte
+      Veröffentlichung von Forschungsdaten nach den FAIR-Prinzipien in
+      öffentliche Repositorien wie GenBank zu unterstützen.
+
+- name: Centre de calcul d'IN2P3
+  url: https://cc.in2p3.fr
+  contact: Yonny Cardenas
+  lat: 45.7825982
+  lon: 4.8651914
+  color: gray
+  discipline: Physik
+
+- name: Stiftung Preußischer Kulturbesitz
+  url: https://www.preussischer-kulturbesitz.de
+  contact: Jens Ludwig
+
+- name: Deutsches Klimarechenzentrum (DKRZ)
+  url: https://rdmo.dkrz.de
+  contact: Karsten Peters
+  lat: 53.5668648
+  lon: 9.9765854
+  color: blue
+  discipline: Klima- und Erdsystemforschung
+  description: >-
+      Das Deutsche Klimarechenzentrum ist der zentrale IT-Serviceprovider
+      der simulationsbasierten deutschen Klima- und Erdsystemforschung. Das
+      Portfolio der Abteilung Datenmanagement des DKRZ beinhaltet
+      fachspezifische Beratung und Unterstützung sowie maßgeschneiderte Dienste
+      zu allen, das Forschungsdatenmanagement betreffenden, Angelegenheiten
+      (Stichwort „Datenlebenszyklus“). Am DKRZ wird RDMO seit Anfang 2020 in
+      erster Linie zur Erstellung und Pflege von Datenmanagementplänen großer
+      Konsortialprojekte und intedisziplinärer Exzellenzcluster genutzt.
+
+- name: Universität Tübingen
+  url: https://rdmo.escience.uni-tuebingen.de
+  contact: Fabian Hamm
+  lat: 48.5244121
+  lon: 9.0597217
+  color: gray
+
+- name: Philipps-Universität Marburg
+  url: http://rdmo.uni-marburg.de
+  contact: Paul Sutter
+  lat: 50.810833
+  lon: 8.773611
+  color: blue
+
+- name: Institute of Science and Technology Austria
+  # url: https://rdmo.ist.ac.at
+  contact: Doris Ernst
+  lat: 48.310556
+  lon: 16.261111
+  color: gray
+
+- name: Leuphana Universität Lüneburg
+  url: https://rdmo.leuphana.de/
+  # contact:
+  lat: 53.228889
+  lon: 10.401111
+  color: blue
+
+- name: Universität Bonn
+  url: https://rdmo.forschungsdaten.uni-bonn.de/
+  contact: forschungsdaten@uni-bonn.de
+  lat: 50.734040
+  lon: 7.103840
+  color: blue
+  description: >-
+     Für Angehörige der Universität Bonn wird eine eigene RDMO-Instanz mit einem eigenen Fragenkatalog angeboten.
+     Bei Interesse können Sie sich gerne an die Servicestelle Forschungsdaten wenden.
+
+- name: Istituto Nazionale di Ricerca Metrologica (INRiM)
+  url: https://rdmo.inrim.it/
+  contact: Dario Pilori
+  lat: 45.014953
+  lon: 7.637828
+  color: gray
+
+- name: Max Planck Digital Library
+  url: https://rdmo.mpdl.mpg.de/
+  contact: Yves Vincent Grossmann
+  lat: 48.1478564
+  lon: 11.5763998
+  color: blue
+
+- name: Zuse-Institut Berlin
+  url: https://rdmo.zib.de
+  contact: Tim Hasler
+  lat: 52.4560878
+  lon: 13.2960695
+  color: blue

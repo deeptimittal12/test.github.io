@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="{{ site.baseurl }}/img/favicon.png" type="image/x-icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{site.title}}</title>
+
+        <link href="{{ site.baseurl }}/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/solarized-light.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="{{ site.baseurl }}/css/style.css" media="screen" rel="stylesheet" type="text/css">
+
+        <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    </head>
+
+    <body>
+        {% include navigation.html %}
+
+        <div class="wrapper">
+            {{ content }}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>
