@@ -2,13 +2,13 @@
 layout: page
 
 key: talks
-lang: de
+lang: en
 ---
 
 Vorträge
 =======
 
-RDMO wurde bereits bei zahlreichen Anlässen vorgestellt und diskutiert:
+sssss
 
 <ul class="talks">
 {% for talk in site.data.talks %}
