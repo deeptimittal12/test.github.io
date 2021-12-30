@@ -2,7 +2,7 @@
 layout: page
 
 key: cooperations
-lang: de
+lang: en
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/leaflet.css" />
