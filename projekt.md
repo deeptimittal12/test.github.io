@@ -5,7 +5,7 @@ key: project
 lang: en
 ---
 
-Projekt
+Project
 =======
 
 **xxx.**
